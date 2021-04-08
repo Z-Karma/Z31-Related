@@ -1,0 +1,11 @@
+Print this template on 11x17 ledger paper, no scaling. There are two parts and they are reversible left to right for both headlight assy's
+
+The thin piece is the reinforcement bracket that helps to keep the rubber from sagging. 
+On the original flaps, it is molded within the rubber of the flap.
+
+The bracket can be cut from 1.60mm aluminum. 
+The original method of fastening was to use push in plastic retainers that passed thru the bracket and stuck into the headlight bucket assy. For these replacements, 
+I tapped the in the headlight bucket assy for M6 thread and used The same common M6 fasteners found elsewhere on the car.
+
+The flap material can be made from most any flexible material. 
+I chose weather resistant EPDM rubber, McMaster-Carr PN 8610K83
